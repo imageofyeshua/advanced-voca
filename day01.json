@@ -1,0 +1,246 @@
+[
+  {
+    "q": "무생물의; 죽은 (것 같은)",
+    "options": [
+      "inanimate",
+      "inapplicable",
+      "incessant",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "inanimate"
+  },
+  {
+    "q": "사용[적용]할 수 없는",
+    "options": [
+      "inanimate",
+      "inapplicable",
+      "incessant",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "inapplicable"
+  },
+  {
+    "q": "((부정적)) 끊임없는, 쉴 새 없는",
+    "options": [
+      "inanimate",
+      "inapplicable",
+      "incessant",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "incessant"
+  },
+  {
+    "q": "나눌 수 없는, 분리될 수 없는",
+    "options": [
+      "inanimate",
+      "inapplicable",
+      "incessant",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "indivisible"
+  },
+  {
+    "q": "비인간적인; 잔혹한",
+    "options": [
+      "inanimate",
+      "inapplicable",
+      "incessant",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "inhumane"
+  },
+  {
+    "q": "만족시킬 수 없는, 만족할 줄 모르는",
+    "options": [
+      "insatiable",
+      "inapplicable",
+      "incessant",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "insatiable"
+  },
+  {
+    "q": "불안정",
+    "options": [
+      "insatiable",
+      "instability",
+      "incessant",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "instability"
+  },
+  {
+    "q": "손으로 만질 수 없는, 무형(無刑)의",
+    "options": [
+      "insatiable",
+      "instability",
+      "intangible",
+      "indivisible",
+      "inhumane"
+    ],
+    "correct": "intangible"
+  },
+  {
+    "q": "변함없는, 변치 않는 것",
+    "options": [
+      "insatiable",
+      "instability",
+      "intangible",
+      "invariable",
+      "inhumane"
+    ],
+    "correct": "invariable"
+  },
+  {
+    "q": "태곳적[아득한 옛적]부터의",
+    "options": [
+      "insatiable",
+      "instability",
+      "intangible",
+      "invariable",
+      "immemorial"
+    ],
+    "correct": "immemorial"
+  },
+  {
+    "q": "죽지 않는; 불멸의 명 신(神), 영생하는 존재",
+    "options": [
+      "immortal",
+      "instability",
+      "intangible",
+      "invariable",
+      "immemorial"
+    ],
+    "correct": "immortal"
+  },
+  {
+    "q": "불사, 불멸",
+    "options": [
+      "immortal",
+      "immortality",
+      "intangible",
+      "invariable",
+      "immemorial"
+    ],
+    "correct": "immortality"
+  },
+  {
+    "q": "공정한, 공평한",
+    "options": [
+      "impartial",
+      "immortality",
+      "intangible",
+      "invariable",
+      "immemorial"
+    ],
+    "correct": "impartial"
+  },
+  {
+    "q": "문맹의; 잘 모르는 명 문맹자",
+    "options": [
+      "illiterate",
+      "illogical",
+      "irrelevant",
+      "irresistible",
+      "infinite"
+    ],
+    "correct": "illiterate"
+  },
+  {
+    "q": "비논리적인, 터무니없는",
+    "options": [
+      "illiterate",
+      "illogical",
+      "irrelevant",
+      "irresistible",
+      "infinite"
+    ],
+    "correct": "illogical"
+  },
+  {
+    "q": "무관한",
+    "options": [
+      "illiterate",
+      "illogical",
+      "irrelevant",
+      "irresistible",
+      "infinite"
+    ],
+    "correct": "irrelevant"
+  },
+  {
+    "q": "저항할 수 없는; 억누를 수 없는",
+    "options": [
+      "illiterate",
+      "illogical",
+      "irrelevant",
+      "irresistible",
+      "infinite"
+    ],
+    "correct": "irresistible"
+  },
+  {
+    "q": "무한한",
+    "options": [
+      "infinitive",
+      "instability",
+      "irrelevant",
+      "irresistible",
+      "infinite"
+    ],
+    "correct": "infinite"
+  },
+  {
+    "q": "((문법)) 부정사",
+    "options": [
+      "infinitive",
+      "instability",
+      "irrelevant",
+      "irresistible",
+      "infinite"
+    ],
+    "correct": "infinitive"
+  },
+  {
+    "q": "결승; 기말시험, 마지막의",
+    "options": ["final", "instability", "finalize", "confine", "finale"],
+    "correct": "final"
+  },
+  {
+    "q": "마무리 짓다",
+    "options": ["final", "instability", "finalize", "finalist", "finale"],
+    "correct": "finalize"
+  },
+  {
+    "q": "(활동·주제 등을) 국한하다; 가두다",
+    "options": ["confinement", "define", "finalize", "confine", "definition"],
+    "correct": "confine"
+  },
+  {
+    "q": "(범위를) 한정하다, 규정하다; (단어 뜻을) 정의하다",
+    "options": ["definite", "define", "definitely", "definitive", "definition"],
+    "correct": "define"
+  },
+  {
+    "q": "한정; 정의",
+    "options": ["definite", "define", "definitely", "definitive", "definition"],
+    "correct": "definition"
+  },
+  {
+    "q": "분명히; 절대로",
+    "options": ["definite", "define", "definitely", "definitive", "definition"],
+    "correct": "definitely"
+  },
+  {
+    "q": "최종적인, 확정적인; 최고의",
+    "options": ["definite", "define", "definitely", "definitive", "definition"],
+    "correct": "definitive"
+  }
+]
