@@ -1,0 +1,180 @@
+[
+  {
+    "q": "(사실이나 의견을) 언급하다, 발언하다, 발언",
+    "options": ["remark", "remarkable", "remarkably", "blurt", "allude"],
+    "correct": "remark"
+  },
+  {
+    "q": "주목할 만한",
+    "options": ["remark", "remarkable", "remarkably", "blurt", "allude"],
+    "correct": "remarkable"
+  },
+  {
+    "q": "현저하게, 매우",
+    "options": ["remark", "remarkable", "remarkably", "blurt", "allude"],
+    "correct": "remarkably"
+  },
+  {
+    "q": "논평, 언급, 논평[언급]하다",
+    "options": [
+      "comment",
+      "statement",
+      "announcement",
+      "declaration",
+      "allude"
+    ],
+    "correct": "comment"
+  },
+  {
+    "q": "성명(서); 진술(서)",
+    "options": [
+      "comment",
+      "statement",
+      "announcement",
+      "declaration",
+      "allude"
+    ],
+    "correct": "statement"
+  },
+  {
+    "q": "발표 (내용); 소식",
+    "options": [
+      "comment",
+      "statement",
+      "announcement",
+      "declaration",
+      "allusion"
+    ],
+    "correct": "announcement"
+  },
+  {
+    "q": "(잘 생각해보지도 않고) 불쑥 말하다",
+    "options": ["comment", "statement", "announcement", "blurt", "allusion"],
+    "correct": "blurt"
+  },
+  {
+    "q": "암시하다, 시사하다; 넌지시 말하다",
+    "options": ["allude", "statement", "murmur", "blurt", "allusion"],
+    "correct": "allude"
+  },
+  {
+    "q": "공언하다, 맹세하다",
+    "options": ["allude", "statement", "announcement", "stutter", "avow"],
+    "correct": "avow"
+  },
+  {
+    "q": "공언, 맹세",
+    "options": ["allude", "avowal", "announcement", "blurt", "avow"],
+    "correct": "avowal"
+  },
+  {
+    "q": "중얼거리다, 중얼거림",
+    "options": ["stammer", "halting", "mumble", "blurt", "avow"],
+    "correct": "mumble"
+  },
+  {
+    "q": "(말이) 자꾸 끊어지는; 멈칫거리는",
+    "options": ["stammer", "halting", "mutter", "blurt", "avow"],
+    "correct": "halting"
+  },
+  {
+    "q": "말을 더듬다",
+    "options": ["stammer", "halting", "mumble", "reserved", "avow"],
+    "correct": "stammer"
+  },
+  {
+    "q": "(감정・의견 등에 대해) 말을 잘 하지 않는, 내성적인",
+    "options": ["maintain", "halting", "mumble", "reserved", "argue"],
+    "correct": "reserved"
+  },
+  {
+    "q": "유지하다; 지키다; (남들은 믿지 않는 것을 사실이라고) 주장하다",
+    "options": ["maintain", "halting", "mumble", "reserved", "argue"],
+    "correct": "maintain"
+  },
+  {
+    "q": "유지, 관리; 주장",
+    "options": ["maintain", "maintenance", "mumble", "reserved", "argue"],
+    "correct": "maintenance"
+  },
+  {
+    "q": "주장하다; 단언하다",
+    "options": ["maintain", "maintenance", "assert", "reserved", "argue"],
+    "correct": "assert"
+  },
+  {
+    "q": "(~이 사실이라고) 주장하다; (자신의 권리라고 여겨) 요구하다",
+    "options": ["discourse", "maintenance", "claim", "reserved", "argue"],
+    "correct": "claim"
+  },
+  {
+    "q": "(~해야 한다고) 고집하다, 우기다",
+    "options": ["discourse", "maintenance", "insist", "refute", "convince"],
+    "correct": "insist"
+  },
+  {
+    "q": "이야기하다, 담론, (진지한) 토론; 담화",
+    "options": ["discourse", "maintenance", "insist", "refute", "convince"],
+    "correct": "discourse"
+  },
+  {
+    "q": "반박하다; 부인하다",
+    "options": ["discourse", "convincing", "insist", "refute", "convince"],
+    "correct": "refute"
+  },
+  {
+    "q": "납득시키다, 확신시키다; 설득하다",
+    "options": ["discourse", "convincing", "insist", "refute", "convince"],
+    "correct": "convince"
+  },
+  {
+    "q": "설득력 있는",
+    "options": ["discourse", "convincing", "insist", "refute", "convince"],
+    "correct": "convincing"
+  },
+  {
+    "q": "장담하다; (~임을) 확인하다; 보장하다",
+    "options": ["assure", "assurance", "eloquent", "coax", "exhort"],
+    "correct": "assure"
+  },
+  {
+    "q": "보증; 확신",
+    "options": ["assure", "assurance", "eloquent", "coax", "exhort"],
+    "correct": "assurance"
+  },
+  {
+    "q": "웅변을 잘하는; 설득력 있는",
+    "options": ["assure", "assurance", "eloquent", "coax", "exhort"],
+    "correct": "eloquent"
+  },
+  {
+    "q": "구슬리다, 달래다",
+    "options": ["assure", "assurance", "eloquent", "coax", "exhort"],
+    "correct": "coax"
+  },
+  {
+    "q": "권고하다, 간곡히 타이르다",
+    "options": ["assure", "assurance", "eloquent", "coax", "exhort"],
+    "correct": "exhort"
+  },
+  {
+    "q": "간곡한 권고",
+    "options": ["assure", "exhortation", "eloquent", "coax", "exhort"],
+    "correct": "exhortation"
+  },
+  {
+    "q": "(특히 자신이 경험한 것을) 이야기하다; (투표용지를) 재검표하다",
+    "options": ["assure", "demonstration", "recount", "coax", "denote"],
+    "correct": "recount"
+  },
+  {
+    "q": "(실례·증거를 들어가며) 보여주다; (사용법 등을) 설명하다; 시위에 참여하다",
+    "options": ["assure", "demonstrate", "recount", "coax", "denote"],
+    "correct": "demonstrate"
+  },
+  {
+    "q": "표시하다; 의미하다",
+    "options": ["assure", "demonstrate", "recount", "coax", "denote"],
+    "correct": "denote"
+  }
+]
