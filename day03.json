@@ -1,0 +1,190 @@
+[
+  {
+    "q": "지나친, 과도한",
+    "options": ["undue", "unhindered", "unwilling", "undisturbed", "undaunted"],
+    "correct": "undue"
+  },
+  {
+    "q": "아무 방해를[제약을] 받지 않는",
+    "options": ["undue", "unhindered", "unwilling", "unchecked", "unwind"],
+    "correct": "unhindered"
+  },
+  {
+    "q": "꺼리는; 마지못해 하는",
+    "options": ["undue", "unhindered", "untamed", "undisturbed", "unwilling"],
+    "correct": "unwilling"
+  },
+  {
+    "q": "방해받지 않은; 누구도 손대지 않은",
+    "options": ["undue", "unwind", "unwilling", "undisturbed", "undaunted"],
+    "correct": "undisturbed"
+  },
+  {
+    "q": "(곤경 등에도) 의연한, 흔들림 없는",
+    "options": ["undue", "unwind", "unwilling", "untamed", "undaunted"],
+    "correct": "undaunted"
+  },
+  {
+    "q": "길들지 않은",
+    "options": ["undue", "unwind", "unidentified", "untamed", "undaunted"],
+    "correct": "untamed"
+  },
+  {
+    "q": "평평하지 않은; (무늬 등이) 고르지 않은",
+    "options": ["uneven", "unwind", "unwilling", "untamed", "unleash"],
+    "correct": "uneven"
+  },
+  {
+    "q": "불안하게 만들다; 용기를 잃게 하다",
+    "options": ["uneven", "unwind", "unnerve", "untamed", "unleash"],
+    "correct": "unnerve"
+  },
+  {
+    "q": "(사회·정치적인) 불안, 불만",
+    "options": ["uneven", "unrest", "unnerve", "untamed", "unintentional"],
+    "correct": "unrest"
+  },
+  {
+    "q": "속박을 풀다; (분노 등을) 폭발시키다",
+    "options": ["uneven", "unrest", "unnerve", "untamed", "unleash"],
+    "correct": "unleash"
+  },
+  {
+    "q": "정체불명의, 신원 미상의",
+    "options": ["uneven", "unrest", "unnerve", "unidentified", "unleash"],
+    "correct": "unidentified"
+  },
+  {
+    "q": "사람이 살지 않는",
+    "options": ["uninhabited", "unrest", "unnerve", "unidentified", "unleash"],
+    "correct": "uninhabited"
+  },
+  {
+    "q": "(행동 등에) 아무 제약을 받지 않는, 거리낌이 없는",
+    "options": [
+      "uninhabited",
+      "unrest",
+      "uninhibited",
+      "unidentified",
+      "unleash"
+    ],
+    "correct": "uninhibited"
+  },
+  {
+    "q": "고의가 아닌, 무심코 한",
+    "options": [
+      "unintentional",
+      "unrest",
+      "uninhibited",
+      "unidentified",
+      "unattended"
+    ],
+    "correct": "unintentional"
+  },
+  {
+    "q": "돌보는 사람이 없는; 내버려 둔",
+    "options": [
+      "unintentional",
+      "unrest",
+      "uninhibited",
+      "unidentified",
+      "unattended"
+    ],
+    "correct": "unattended"
+  },
+  {
+    "q": "(크기·양 등이) 다른; 불공평한",
+    "options": [
+      "unintentional",
+      "equality",
+      "unattended",
+      "equalize",
+      "unequal"
+    ],
+    "correct": "unequal"
+  },
+  {
+    "q": "동등하게 하다; 평형을 이루다",
+    "options": ["equation", "equality", "unattended", "equalize", "unequal"],
+    "correct": "equalize"
+  },
+  {
+    "q": "평등; 균등",
+    "options": ["equation", "equality", "unattended", "equalize", "unequal"],
+    "correct": "equality"
+  },
+  {
+    "q": "동일시하다",
+    "options": ["equation", "equality", "equate", "equalize", "unequal"],
+    "correct": "equate"
+  },
+  {
+    "q": "동일시; ((수학)) 등식; 방정식",
+    "options": ["equation", "equality", "equate", "equalize", "unequal"],
+    "correct": "equation"
+  },
+  {
+    "q": "(지구의) 적도",
+    "options": ["equation", "equality", "equate", "equator", "equivalent"],
+    "correct": "equator"
+  },
+  {
+    "q": "(한 회사의) 자기 자본, (자산의) 순수 가치, 공평, 공정",
+    "options": ["equity", "equitable", "equate", "equator", "equivalent"],
+    "correct": "equity"
+  },
+  {
+    "q": "(가치 등이) 동등한, 맞먹는 명 (~에) 상당하는 것",
+    "options": ["equity", "equitable", "equate", "equator", "equivalent"],
+    "correct": "equivalent"
+  },
+  {
+    "q": "평형을 유지하다",
+    "options": ["equity", "equilibrate", "equate", "equator", "equivalent"],
+    "correct": "equilibrate"
+  },
+  {
+    "q": "평형, 균형 (상태); (마음의) 평정",
+    "options": [
+      "equity",
+      "equilibrate",
+      "equilibrium",
+      "equator",
+      "equivalent"
+    ],
+    "correct": "equilibrium"
+  },
+  {
+    "q": "두 가지 뜻으로 해석되는; (말이) 모호한",
+    "options": [
+      "equity",
+      "equilibrate",
+      "equilibrium",
+      "equilateral",
+      "equivocal"
+    ],
+    "correct": "equivocal"
+  },
+  {
+    "q": "등변의 ((다각형에서 각 변의 길이가 같은))",
+    "options": [
+      "equinox",
+      "equilibrate",
+      "equilibrium",
+      "equilateral",
+      "equivocal"
+    ],
+    "correct": "equilateral"
+  },
+  {
+    "q": "춘분; 추분 ((밤과 낮의 길이가 거의 같은 날))",
+    "options": [
+      "equinox",
+      "equilibrate",
+      "equilibrium",
+      "equilateral",
+      "equivocal"
+    ],
+    "correct": "equinox"
+  }
+]
