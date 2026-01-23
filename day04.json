@@ -1,0 +1,153 @@
+[
+  {
+    "q": "언어(학)의",
+    "options": ["linguistic", "lexicon", "semantic", "fluent", "derive"],
+    "correct": "linguistic"
+  },
+  {
+    "q": "(~에서) 비롯되다; 유래하다",
+    "options": ["linguistic", "lexicon", "semantic", "fluent", "derive"],
+    "correct": "derive"
+  },
+  {
+    "q": "어휘 (목록); 사전",
+    "options": ["linguistic", "lexicon", "semantic", "fluent", "derive"],
+    "correct": "lexicon"
+  },
+  {
+    "q": "((언어)) 의미의; 의미론적인",
+    "options": ["linguistic", "lexicon", "semantic", "fluent", "derive"],
+    "correct": "semantic"
+  },
+  {
+    "q": "유창한; 능란한",
+    "options": ["linguistic", "lexicon", "semantic", "fluent", "derive"],
+    "correct": "fluent"
+  },
+  {
+    "q": "말씨; 강세; 강조",
+    "options": ["articulate", "accent", "consonant", "vowel", "abbreviate"],
+    "correct": "accent"
+  },
+  {
+    "q": "또렷이 말하다; (생각을) 분명히 표현하다",
+    "options": ["articulate", "accent", "consonant", "vowel", "abbreviate"],
+    "correct": "articulate"
+  },
+  {
+    "q": "자음(子音)",
+    "options": ["articulate", "accent", "consonant", "vowel", "abbreviate"],
+    "correct": "consonant"
+  },
+  {
+    "q": "모음(母音)",
+    "options": ["articulate", "accent", "consonant", "vowel", "abbreviate"],
+    "correct": "vowel"
+  },
+  {
+    "q": "(어구 등을) 줄여 쓰다",
+    "options": ["articulate", "accent", "consonant", "vowel", "abbreviate"],
+    "correct": "abbreviate"
+  },
+  {
+    "q": "(단어·구 등의) 축약(형), 약어",
+    "options": [
+      "articulate",
+      "abbreviation",
+      "consonant",
+      "vowel",
+      "abbreviate"
+    ],
+    "correct": "abbreviation"
+  },
+  {
+    "q": "유사점; 비유; 유추",
+    "options": ["analogy", "irony", "paradox", "rhetoric", "euphemism"],
+    "correct": "analogy"
+  },
+  {
+    "q": "빈정대는; 풍자적인",
+    "options": ["sarcastic", "irony", "paradox", "rhetoric", "euphemism"],
+    "correct": "sarcastic"
+  },
+  {
+    "q": "비유적인",
+    "options": ["sarcastic", "figurative", "paradox", "rhetoric", "euphemism"],
+    "correct": "figurative"
+  },
+  {
+    "q": "완곡어법 ((정중한 표현법))",
+    "options": ["sarcastic", "figurative", "paradox", "rhetoric", "euphemism"],
+    "correct": "euphemism"
+  },
+  {
+    "q": "역설; 모순",
+    "options": ["sarcastic", "figurative", "paradox", "rhetoric", "euphemism"],
+    "correct": "paradox"
+  },
+  {
+    "q": "수사법; 미사여구",
+    "options": ["sarcastic", "figurative", "paradox", "rhetoric", "euphemism"],
+    "correct": "rhetoric"
+  },
+  {
+    "q": "은유, 비유",
+    "options": ["metaphor", "paraphrase", "formal", "excerpt", "proverbial"],
+    "correct": "metaphor"
+  },
+  {
+    "q": "(이해를 돕기위해) 다른 말로 바꾸어 표현하다",
+    "options": ["metaphor", "paraphrase", "formal", "excerpt", "proverbial"],
+    "correct": "paraphrase"
+  },
+  {
+    "q": "형식상의; 격식을 차린; 공식적인",
+    "options": ["metaphor", "paraphrase", "formal", "excerpt", "proverbial"],
+    "correct": "formal"
+  },
+  {
+    "q": "(글·음악 등의) 발췌[인용] (부분)",
+    "options": ["metaphor", "paraphrase", "formal", "excerpt", "proverbial"],
+    "correct": "excerpt"
+  },
+  {
+    "q": "속담에 나오는; 유명한, 소문이 나 있는",
+    "options": ["metaphor", "paraphrase", "formal", "excerpt", "proverbial"],
+    "correct": "proverbial"
+  },
+  {
+    "q": "전문 용어",
+    "options": ["terminology", "literary", "stylistic", "critique", "verse"],
+    "correct": "terminology"
+  },
+  {
+    "q": "문학의; (언어·문체가) 문학적인",
+    "options": ["terminology", "literary", "stylistic", "critique", "verse"],
+    "correct": "literary"
+  },
+  {
+    "q": "평론, 비평",
+    "options": ["terminology", "literary", "stylistic", "critique", "verse"],
+    "correct": "critique"
+  },
+  {
+    "q": "(유명인의) 회고록",
+    "options": ["memoir", "anecdote", "fictional", "plot", "episode"],
+    "correct": "memoir"
+  },
+  {
+    "q": "(주로 짧고 재미있는) 일화",
+    "options": ["memoir", "anecdote", "fictional", "plot", "episode"],
+    "correct": "anecdote"
+  },
+  {
+    "q": "허구의; 소설적인 ",
+    "options": ["memoir", "anecdote", "fictional", "plot", "episode"],
+    "correct": "fictional"
+  },
+  {
+    "q": "(극 등의) 구성; 음모; 구성하다; 음모하다",
+    "options": ["memoir", "anecdote", "fictional", "plot", "episode"],
+    "correct": "plot"
+  }
+]
