@@ -1,0 +1,142 @@
+[
+  {
+    "q": "(시간이) 흐르다",
+    "options": ["elapse", "brevity", "temporary", "sporadic", "consecutive"],
+    "correct": "elapse"
+  },
+  {
+    "q": "(시간이) 짧음; 간결(성)",
+    "options": ["elapse", "brevity", "temporary", "sporadic", "consecutive"],
+    "correct": "brevity"
+  },
+  {
+    "q": "일시적인, 임시의",
+    "options": ["elapse", "brevity", "temporary", "sporadic", "consecutive"],
+    "correct": "temporary"
+  },
+  {
+    "q": "산발적인, 때때로 일어나는",
+    "options": ["elapse", "brevity", "temporary", "sporadic", "consecutive"],
+    "correct": "sporadic"
+  },
+  {
+    "q": "연이은",
+    "options": ["elapse", "brevity", "temporary", "sporadic", "consecutive"],
+    "correct": "consecutive"
+  },
+  {
+    "q": "영원한",
+    "options": ["eternal", "onset", "retard", "reminiscent", "destiny"],
+    "correct": "eternal"
+  },
+  {
+    "q": "(불쾌한 일의) 시작; (적군의) 공격",
+    "options": ["eternal", "onset", "retard", "reminiscent", "destiny"],
+    "correct": "onset"
+  },
+  {
+    "q": "(발달・진전을) 지연시키다",
+    "options": ["eternal", "onset", "retard", "reminiscent", "destiny"],
+    "correct": "retard"
+  },
+  {
+    "q": "연상시키는; 추억에 잠긴 듯한",
+    "options": ["eternal", "onset", "retard", "reminiscent", "destiny"],
+    "correct": "reminiscent"
+  },
+  {
+    "q": "운명",
+    "options": ["destined", "doom", "retard", "reminiscent", "destiny"],
+    "correct": "destiny"
+  },
+  {
+    "q": "불행한 운명을 맞게 하다; 파멸",
+    "options": ["destined", "doom", "retard", "reminiscent", "destiny"],
+    "correct": "doom"
+  },
+  {
+    "q": "다 자라지 못한; 치기 어린",
+    "options": ["longevity", "doom", "immature", "premature", "perish"],
+    "correct": "immature"
+  },
+  {
+    "q": "이른; 조산의; 시기상조의",
+    "options": ["longevity", "doom", "immature", "premature", "perish"],
+    "correct": "premature"
+  },
+  {
+    "q": "장수; 오래 지속됨",
+    "options": ["longevity", "doom", "immature", "premature", "perish"],
+    "correct": "longevity"
+  },
+  {
+    "q": "죽다; 멸망하다",
+    "options": ["longevity", "doom", "immature", "premature", "perish"],
+    "correct": "perish"
+  },
+  {
+    "q": "(최근에) 죽은",
+    "options": ["departed", "demise", "cemetery", "coffin", "tribute"],
+    "correct": "departed"
+  },
+  {
+    "q": "서거, 사망",
+    "options": ["departed", "demise", "cemetery", "coffin", "tribute"],
+    "correct": "demise"
+  },
+  {
+    "q": "묘지",
+    "options": ["departed", "demise", "cemetery", "coffin", "tribute"],
+    "correct": "cemetery"
+  },
+  {
+    "q": "(시체를 넣는) 관",
+    "options": ["departed", "demise", "cemetery", "coffin", "tribute"],
+    "correct": "coffin"
+  },
+  {
+    "q": "(죽은 이에게 바치는) 헌사; 조공",
+    "options": ["departed", "demise", "cemetery", "coffin", "tribute"],
+    "correct": "tribute"
+  },
+  {
+    "q": "관련된; 적절한",
+    "options": ["relevant", "bond", "socialize", "intimate", "alienate"],
+    "correct": "relevant"
+  },
+  {
+    "q": "유대; 결속; 채권; 접착시키다",
+    "options": ["relevant", "bond", "socialize", "intimate", "alienate"],
+    "correct": "bond"
+  },
+  {
+    "q": "(사람들과) 사귀다, 어울리다",
+    "options": ["relevant", "bond", "socialize", "intimate", "alienate"],
+    "correct": "socialize"
+  },
+  {
+    "q": "친밀한; 넌지시 알리다",
+    "options": ["relevant", "bond", "socialize", "intimate", "alienate"],
+    "correct": "intimate"
+  },
+  {
+    "q": "(사람을) 소원하게 하다",
+    "options": ["relevant", "bond", "socialize", "intimate", "alienate"],
+    "correct": "alienate"
+  },
+  {
+    "q": "격리하다; 분리하다",
+    "options": ["isolate", "split", "socialize", "fellowship", "peer"],
+    "correct": "isolate"
+  },
+  {
+    "q": "또래, 동년배",
+    "options": ["isolate", "split", "socialize", "fellowship", "peer"],
+    "correct": "peer"
+  },
+  {
+    "q": "쪼개다; 분리하다; 쪼개짐; 분열",
+    "options": ["isolate", "split", "socialize", "fellowship", "peer"],
+    "correct": "split"
+  }
+]
