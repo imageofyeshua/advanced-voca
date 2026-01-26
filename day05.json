@@ -1,0 +1,206 @@
+[
+  {
+    "q": "반대하다; 못마땅해하다",
+    "options": [
+      "disapprove",
+      "discontent",
+      "disregard",
+      "disprove",
+      "dissuade"
+    ],
+    "correct": "disapprove"
+  },
+  {
+    "q": "불만",
+    "options": [
+      "disapprove",
+      "discontent",
+      "disregard",
+      "disprove",
+      "dissuade"
+    ],
+    "correct": "discontent"
+  },
+  {
+    "q": "무시하다, 묵살하다",
+    "options": [
+      "disapprove",
+      "discontent",
+      "disregard",
+      "disprove",
+      "dissuade"
+    ],
+    "correct": "disregard"
+  },
+  {
+    "q": "틀렸음을 입증하다, 반박하다",
+    "options": [
+      "disapprove",
+      "discontent",
+      "disregard",
+      "disprove",
+      "dissuade"
+    ],
+    "correct": "disprove"
+  },
+  {
+    "q": "설득해서 ~하지 않도록 하다, 단념시키다",
+    "options": [
+      "disapprove",
+      "discontent",
+      "disregard",
+      "disprove",
+      "dissuade"
+    ],
+    "correct": "dissuade"
+  },
+  {
+    "q": "망신, 수치; 불명예",
+    "options": [
+      "disgrace",
+      "disintegrate",
+      "disqualify",
+      "dispassionate",
+      "decode"
+    ],
+    "correct": "disgrace"
+  },
+  {
+    "q": "해체되다, 분해되다",
+    "options": [
+      "disgrace",
+      "disintegrate",
+      "disqualify",
+      "dispassionate",
+      "decode"
+    ],
+    "correct": "disintegrate"
+  },
+  {
+    "q": "자격을 박탈하다, 실격시키다",
+    "options": [
+      "disgrace",
+      "disintegrate",
+      "disqualify",
+      "dispassionate",
+      "decode"
+    ],
+    "correct": "disqualify"
+  },
+  {
+    "q": "(암호를) 해독하다",
+    "options": [
+      "disgrace",
+      "disintegrate",
+      "disqualify",
+      "dispassionate",
+      "decode"
+    ],
+    "correct": "decode"
+  },
+  {
+    "q": "단점, 결점",
+    "options": ["demerit", "deplete", "deranged", "detox", "disclose"],
+    "correct": "demerit"
+  },
+  {
+    "q": "고갈시키다, 격감시키다",
+    "options": ["demerit", "deplete", "deranged", "detox", "disclose"],
+    "correct": "deplete"
+  },
+  {
+    "q": "(정신적으로) 정상이 아닌, 미친",
+    "options": ["demerit", "deplete", "deranged", "detox", "disclose"],
+    "correct": "deranged"
+  },
+  {
+    "q": "해독; 약물[알코올] 중독 치료",
+    "options": ["demerit", "deplete", "deranged", "detox", "disclose"],
+    "correct": "detox"
+  },
+  {
+    "q": "드러내다; 폭로하다",
+    "options": ["demerit", "deplete", "deranged", "detox", "disclose"],
+    "correct": "disclose"
+  },
+  {
+    "q": "(울타리 등이) 둘러싸다; 동봉하다",
+    "options": ["enclose", "conclude", "include", "exclude", "preclude"],
+    "correct": "enclose"
+  },
+  {
+    "q": "결론을 내리다; 끝나다",
+    "options": ["enclose", "conclude", "include", "exclude", "preclude"],
+    "correct": "conclude"
+  },
+  {
+    "q": "포함하다",
+    "options": ["enclose", "conclude", "include", "exclude", "preclude"],
+    "correct": "include"
+  },
+  {
+    "q": "제외하다; 배제하다",
+    "options": ["enclose", "conclude", "include", "exclude", "preclude"],
+    "correct": "exclude"
+  },
+  {
+    "q": "배타적인; 독점적인; 독점 기사",
+    "options": ["enclose", "exclusive", "include", "exclude", "preclude"],
+    "correct": "exclusive"
+  },
+  {
+    "q": "못하게 하다, 불가능하게 하다",
+    "options": ["enclose", "exclusive", "include", "exclude", "preclude"],
+    "correct": "preclude"
+  },
+  {
+    "q": "은둔하다, 고립시키다",
+    "options": ["enclose", "seclude", "include", "exclude", "preclude"],
+    "correct": "seclude"
+  },
+  {
+    "q": "믿다; 신용(거래); 입금; 칭찬, 인정",
+    "options": ["credit", "discredit", "credible", "incredible", "credulous"],
+    "correct": "credit"
+  },
+  {
+    "q": "신임을 떨어뜨리다; 신용하지 않다",
+    "options": ["credit", "discredit", "credible", "incredible", "credulous"],
+    "correct": "discredit"
+  },
+  {
+    "q": "믿을 수 있는",
+    "options": ["credit", "discredit", "credible", "incredible", "credulous"],
+    "correct": "credible"
+  },
+  {
+    "q": "믿을 수 없는; 놀라운",
+    "options": ["credit", "discredit", "credible", "incredible", "credulous"],
+    "correct": "incredible"
+  },
+  {
+    "q": "잘 믿는, 잘 속는",
+    "options": ["credit", "discredit", "credible", "incredible", "credulous"],
+    "correct": "credulous"
+  },
+  {
+    "q": "잘 믿지 않는; 의심 많은",
+    "options": ["credit", "incredulous", "credible", "incredible", "credulous"],
+    "correct": "incredulous"
+  },
+  {
+    "q": "신임장; 신용증명서",
+    "options": ["credit", "credential", "accredit", "creed", "credulous"],
+    "correct": "credential"
+  },
+  {
+    "q": "(어떤 일을) ~가 한 것으로 믿다",
+    "options": ["credit", "credential", "accredit", "creed", "credulous"],
+    "correct": "accredit"
+  },
+  {
+    "q": "교리; 신조, 신념",
+    "options": ["credit", "credential", "accredit", "creed", "credulous"],
+    "correct": "creed"
+  }
+]
